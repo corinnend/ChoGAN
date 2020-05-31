@@ -1,0 +1,2 @@
+# ChoGAN
+Music Generative Networks
